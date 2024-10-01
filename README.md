@@ -34,8 +34,10 @@ pip install requests
 ```
 
 ### Dependências
+```bash
 pandas==2.2.3
 selenium==4.25.0
+```
 
 ## Uso 
 Após todos os passos, é só rodar o projeto!
