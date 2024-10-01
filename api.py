@@ -12,7 +12,7 @@ response = requests.get(
 )
 
 data = response.json()
-print(data)
+
 with open('tabela_campeonato.csv', mode='w', newline='') as file:
     writer = csv.writer(file)
 
